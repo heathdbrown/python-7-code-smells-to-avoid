@@ -6,13 +6,13 @@ Video: https://www.youtube.com/watch?v=LrtnLEkOwFE&list=TLPQMTQwNzIwMjE9-kfIcaaT
 Book: https://martinfowler.com/books/refactoring.html
 
 ## Overivew
-1.) 
-2.) 
-3.)
-4.)
-5.)
-6.)
-7.)
-8.)
+1.
+2. 
+3.
+4.
+5.
+6.
+7.
+8.
 
 
